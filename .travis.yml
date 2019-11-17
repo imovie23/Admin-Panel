@@ -8,3 +8,4 @@ before_script:
   - npm install --prefix ./
 
 script:
+  - npm run test
